@@ -1,4 +1,4 @@
-import 'package:emotiontrackerapp/presentation/screens/Onboarding_Screen.dart';
+import 'package:como_vai/presentation/screens/tela_integracao.dart';
 import 'package:flutter/material.dart';
 
 

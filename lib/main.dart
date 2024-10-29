@@ -1,6 +1,6 @@
 
 
-import 'package:emotiontrackerapp/app.dart';
+import 'package:como_vai/app.dart';
 import 'package:flutter/material.dart';
 
 
